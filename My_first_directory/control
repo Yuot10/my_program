@@ -1,0 +1,5 @@
+Token has an issue
+ls -la
+cd .git
+vim config
+copy the access token
